@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq1.fasta
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq2.fasta
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq3.fasta
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq4.fasta
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq5.fasta
+https://raw.githubusercontent.com/fcsalgado/bioinformatics_urosario/master/files/archivos_parcial/seq6.fasta
