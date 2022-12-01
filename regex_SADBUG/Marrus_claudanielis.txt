@@ -1,0 +1,11 @@
+Dive,Date,Lat,Lon,Depth,Notes
+Tiburon 596,19-Jul-03,36°36'12''N,122°22'48''W,1190,holotype
+JSL II 1411,16-Sep-86,39°56'4''N,70°14'3''W,518,paratype
+JSL II 930,18-Aug-84,40°05'03''N,69°03'01''W,686,Youngbluth (1989)
+Ventana 1575,11-Mar-99,36°42'24''N,122°02'52''W,767,
+Ventana 1777,16-Jun-00,36°42'60''N,122°02'60''W,934,
+Ventana 2243,9-Sep-02,36°42'48''N,122°03'40''W,1001,
+Tiburon 515,24-Nov-02,36°42'00''N,122°01'55''W,1156,
+Tiburon 531,13-Mar-03,24°19'02''N,109°12'18''W,1144,
+Tiburon 547,31-Mar-03,24°14'04''N,109°40'02''W,1126,
+JSL II 3457,26-Sep-03,40°17'60''N,68°06'60''W,862,Francesc Pages (pers.comm)
