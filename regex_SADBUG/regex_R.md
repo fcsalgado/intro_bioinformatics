@@ -157,7 +157,7 @@ Transform this space sepated [file](https://raw.githubusercontent.com/fcsalgado/
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## Let's move to R, which why we are here
+## Let's move to R, which is why we are here
 
 There are two ways to work with RegEx in R:
 
