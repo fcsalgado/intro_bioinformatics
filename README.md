@@ -5,6 +5,6 @@ Las actividades de este curso las desarrollaremos a través **github**, aprender
 
 Ahora bien, en la parte superior encontrarán la sección [Wiki](https://github.com/fcsalgado/bioinformatics_urosario/wiki), ahí trabajaremos todos los temas de mi sección.
 
-Las instrucciones del proyecto las pueden encontrar [aquí](https://github.com/fcsalgado/intro_bioinformatics/blob/master/files/Proyecto_instrucciones%20(1).docx)
+Las instrucciones del proyecto las pueden encontrar [aquí](https://github.com/fcsalgado/intro_bioinformatics/blob/master/files/raw/Proyecto_instrucciones%20(1).docx)
 
 Recuerden que si tienen alguna duda o reclamo, me pueden escribir al correo institucional (fabianc.salgado@urosario.edu.co)
